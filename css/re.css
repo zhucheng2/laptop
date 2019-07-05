@@ -1,0 +1,19 @@
+.title{ 
+    margin-bottom:20px;
+}
+.title a{
+    font-size:20px;
+    color:#FFF; 
+    -webkit-transition: all 0.5s; 
+    -moz-transition: all 0.5s; 
+    -o-transition: all 0.5s; 
+    -ms-transition: all 0.5s; 
+    text-shadow:#3F7C9B 1px 1px 1px
+}
+.title a:hover{ 
+    padding-left: 30px;
+}
+.blog ul{
+    display: block;
+    margin-bottom: 100px;
+}
